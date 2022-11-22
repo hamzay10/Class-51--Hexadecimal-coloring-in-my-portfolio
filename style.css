@@ -1,0 +1,26 @@
+h1{
+    color: #b80000
+}
+
+.header{
+    background-color: #989595;
+    display:flex;
+    justify-content:space-between;
+}
+
+.grid {
+    background-color: #989595;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer {
+    background-color: #989595;
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    background-color: #989595;
+    text-align: center;
+}
+
